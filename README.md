@@ -1,2 +1,3 @@
 # AliyunOSSCDNFRE
 根据泄露的4000条阿里云可上传OSS存储桶列表来自动匹配离你最近的区域的存储桶进行上传以达到加速的目的
+请保证aliyun.txt和aliyunoss.py处于同一目录下
